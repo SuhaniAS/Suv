@@ -1,5 +1,5 @@
 # Suv
-# Based on the availabe data(Gender,age,estimated salary), predict whether the product will be purchased or not.
+# Based on the available data(Gender,age,estimated salary), predict whether the product will be purchased or not.
 Hence the data is Supervised and deals with classification problem.
 There are 400 rows and 5 columns.
 The variable 'Purchased' is considered to be the target variable.
